@@ -1,0 +1,10 @@
+#editors specific
+.bsp
+.idea
+project
+target
+
+
+#java/scala specific
+*.class
+*.log
